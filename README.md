@@ -18,6 +18,3 @@ Upon finishing training our model we will get predictions on the unseen test dat
 
 ![An image from test data](/Users/umuteraslan/Desktop/test_face1.png)
 ![An image from test data](/Users/umuteraslan/Desktop/test_face2.png)
-
-
-
