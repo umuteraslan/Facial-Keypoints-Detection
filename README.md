@@ -6,7 +6,7 @@ We are given images of faces as the training data and (x,y) coordinates of 15 ke
 
 Let's see an image from the train data to get a sense of what we are dealing with:
 
-![An image from training data](/Users/umuteraslan/Desktop/train_face.png)
+![An image from training data](/images/train_face.png)
 
 In order to tackle this problem we will be build a convolutional neural network(CNN) using python3 and tensorflow 2.0.
 
@@ -16,5 +16,6 @@ You can check the the requirements.txt file for full list of required libraries.
 
 Upon finishing training our model we will get predictions on the unseen test data as follows:
 
-![An image from test data](/Users/umuteraslan/Desktop/test_face1.png)
-![An image from test data](/Users/umuteraslan/Desktop/test_face2.png)
+![An image from test data](/images/test_face.png)
+
+![An image from test data](/images/test_face2.png)
